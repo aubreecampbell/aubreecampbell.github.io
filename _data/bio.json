@@ -22,18 +22,8 @@
       },
       {
         "network": "linkedin",
-        "username": "",
-        "url": ""
-      },
-      {
-        "network": "twitter",
-        "username": "",
-        "url": ""
-      },
-      {
-        "network": "instagram",
-        "username": "",
-        "url": ""
+        "username": "Aubree Campbell",
+        "url": "https://www.linkedin.com/in/aubree-campbell-ab97a41ba/"
       }
     ]
   },
@@ -41,8 +31,6 @@
     {
       "name": "marketing",
       "keywords": [
-        "Arduino",
-        "TI MSP430"
       ]
     },
     {
